@@ -3,5 +3,6 @@
 </p>
 
 <p align="center"> <strong>Hi, I'm Bryan </strong> </p>
-<p align="center"> Computer Science Student at the University of British Columbia </p>
+<p align="center"> Member of Technical Staff at Mundo AI </p>
+<p align="center"> Computer Science and Economics at the University of British Columbia </p>
 <p align="center"> ex-Software Engineer @ MDA Space & Tetra Tech <p>
